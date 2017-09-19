@@ -4,14 +4,14 @@ Apuntes del curso de iniciación a Python.
 ## Contenidos
 El curso dividido en dos sesiones de 90 minutos versará sobre los siguientes contenidos:
 
-	Sesión I:
+**Sesión I**:
   -	Introducción a Python
   -	Tipos de Datos
   -	Estructuras de control
   -	Funciones
   -	Ficheros
   
-  Sesión II:
+**Sesión II**:
   -	Módulo, paquetes y gestores de librerías
   -	Expresiones regulares
   - Entornos virtuales
