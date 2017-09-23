@@ -21,7 +21,7 @@ El curso dividido en dos sesiones de 90 minutos versará sobre los siguientes co
 ## Materiales
 Los materiales del curso se podrán descargar desde la web https://github.com/LlanosTobarra/CursoPython y se encontrarán disponibles lo antes posible.
 
-Para los ejercicios propuestos en clase usaremos la distribución de Python llamada Anaconda en su versión 2.7. Dependiendo del equipo del estudiante será de 32 o 64 bits. Los estudiantes deberán tenerla instalada en sus equipos. 
+Para los ejercicios propuestos en clase usaremos la distribución de Python llamada Anaconda en su versión 2.7. Dependiendo del equipo del estudiante será de 32 o 64 bits. Los estudiantes deberán tenerla instalada en sus equipos. Sin embargo en el curso hablaremos de ambas versiones de Python, tanto la 2.x como la 3.x.
 La distribución Anaconda se puede descargar en el siguiente enlace: https://www.anaconda.com/download/.
 
 Dentro de la distribución se trabajarán con:
